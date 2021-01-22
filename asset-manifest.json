@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/helin/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/helin/static/js/main.f0e36b72.chunk.js",
+    "main.js.map": "/helin/static/js/main.f0e36b72.chunk.js.map",
+    "runtime-main.js": "/helin/static/js/runtime-main.2d667b96.js",
+    "runtime-main.js.map": "/helin/static/js/runtime-main.2d667b96.js.map",
+    "static/js/2.d4431a9a.chunk.js": "/helin/static/js/2.d4431a9a.chunk.js",
+    "static/js/2.d4431a9a.chunk.js.map": "/helin/static/js/2.d4431a9a.chunk.js.map",
+    "static/js/3.c062cff5.chunk.js": "/helin/static/js/3.c062cff5.chunk.js",
+    "static/js/3.c062cff5.chunk.js.map": "/helin/static/js/3.c062cff5.chunk.js.map",
+    "index.html": "/helin/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/helin/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.d4431a9a.chunk.js.LICENSE.txt": "/helin/static/js/2.d4431a9a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d667b96.js",
+    "static/js/2.d4431a9a.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.f0e36b72.chunk.js"
+  ]
+}
